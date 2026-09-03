@@ -24,6 +24,12 @@
 .DS_Store
 *.pem
 
+# generated pipeline output
+/outputs
+
+# MVP file-based project storage
+/data
+
 # debug
 npm-debug.log*
 yarn-debug.log*
